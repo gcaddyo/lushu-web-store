@@ -1,1 +1,1 @@
-# lushu-web-tore
+# lushu-web-store
